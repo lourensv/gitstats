@@ -3,7 +3,6 @@ import sys, getopt
 import os
 import git
 from pathlib import Path
-from glob import glob
 
 Project_list = []
 
